@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My School Project (Homeworks)
 
-You can use the [editor on GitHub](https://github.com/Acrenactive/SchoolProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey! i will put all my homework files here from my C++ Class .
+I made this github pages just to have it like a libary and so other beginner can watch this page and maybe learn something i do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Beginner
+
+I am a beginner in C++ but i am really intresting to learning me more about that language
+
+### Guide
+
+I will put file here so i can explain on my own way how some of the code work like Variables and types.
+(Psst... i am still amateur in C++ so my explaining how things work is that way it worked for me.)
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Acrenactive/SchoolProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
