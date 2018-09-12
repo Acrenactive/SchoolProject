@@ -1,7 +1,7 @@
 ## Welcome to My School Project (Homeworks)
 
 Hey! i will put all my homework files here from my C++ Class .
-I made this github pages just to have it like a libary and so other beginner can watch this page and maybe learn something i do.
+I made this github pages just to have it like a library and so other beginner can watch this page and maybe learn something i do.
 
 
 ### Beginner
