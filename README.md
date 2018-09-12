@@ -11,6 +11,6 @@ I am a beginner in C++ but i am really intresting to learning me more about that
 ### Guide
 
 I will put file here so i can explain on my own way how some of the code work like Variables and types.
-* (Psst... i am still amateur in C++ so my explaining how things work is that way it worked for me.) *
+* (Psst... i am still amateur in C++ so my explaining how things work is that way it worked for me.) 
 
 
