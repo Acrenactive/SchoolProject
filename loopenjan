@@ -1,0 +1,46 @@
+document.body.style.fontSize="80px";
+
+
+/*
+for (var n= 0; n <21; n+=2)
+
+{
+    document.body.innerHTML+=n + "";
+
+
+}
+*/
+
+
+
+var omg=1; 
+document.body.innerHTML =("Spela Yatzy, tryck på en tangent");
+window.addEventListener("keydown", function(){
+document.body.innerHTML ="Tärningkast nr " +omg+" du fick <br>";
+for(var i =0; i <5; i++){
+    var nr= Math.floor(Math.random()*6)+1;
+    if(nr==1) document.body.innerHTML+= "&#9856;"; 
+    else if(nr==2) document.body.innerHTML+= "&#9857;"; 
+    else if(nr==3) document.body.innerHTML+= "&#9858;"; 
+    else if(nr==4) document.body.innerHTML+= "&#9859;"; 
+    else if(nr==5) document.body.innerHTML+= "&#9860;";
+    else document.body.innerHTML+= "&#9861;"; 
+}
+omg++;
+});
+
+/*
+var namn= prompt("Vad heter du?");
+antal=0;
+while(antal<5){
+  
+    var nr= Math.floor(Math.random()*5)+1;
+    if(nr==1) document.body.innerHTML+= "hej" +namn+"<br>"; 
+    else if(nr==2) document.body.innerHTML+= "hej" +namn+"<br>"; 
+    else if(nr==3) document.body.innerHTML+= "hej" +namn+"<br>"; 
+    else if(nr==4) document.body.innerHTML+= "hej" +namn+"<br>"; 
+    else document.body.innerHTML+= "Marhaba" +namn+ "<br>"; 
+   antal++;
+} 
+*()
+*/
