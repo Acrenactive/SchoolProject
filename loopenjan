@@ -44,3 +44,11 @@ while(antal<5){
 } 
 *()
 */
+
+
+var antal = prompt("Hur många tecken? ");
+for(var n = 0; n < antal; n++)
+{
+    if(n%2==0) document.body.innerHTML += "/";
+    else document.body.innerHTML += "\\";
+}
