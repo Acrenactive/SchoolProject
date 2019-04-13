@@ -6,7 +6,7 @@ I made this github pages just to have it like a library and so other beginner ca
 
 ### Beginner
 
-I am a beginner in C++ but i am really intresting to learning me more about that language
+I am a beginner in C++/Javascript but i am really intresting to learning me more about that language
 
 ### Guide
 
