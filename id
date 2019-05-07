@@ -1,0 +1,64 @@
+  https://codepen.io/geoffreyshepard/pen/ArgvJ
+  
+  
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+</head>
+
+
+
+<body>
+
+   <!---Buttons-->
+    <div class="wt"> 
+
+        <h2>TEST</h2>
+            <input class="ied" placeholder="Username"></input>
+            <input class="iep" type="password" placeholder="Password"></input>
+                <button class="logga-in">Logga in </button>
+    </div>
+
+    <!--Text-->
+    <h2>DNA Teknik</h2>
+
+
+    
+</body>
+</html>
+
+
+-------------------------------------
+-------------------_-CSS
+
+
+body {
+
+    background: #122430;
+    margin: 0px;
+}
+
+.wt h2 {
+
+color: #FFFCE2;
+font-family: 'Lato', sans-serif;
+font-size: 22px;
+line-height: 1.5rem;
+font-weight: 600px;
+text-transform: uppercase;
+
+
+}
+
+.logga-in {
+
+    margin: 30px;
+
+}
+
