@@ -1,0 +1,12 @@
+
+var sener = prompt ("Hur mycket vill du växla?");
+var euro = 11.56;
+var result = (sener / euro) .toFixed(2);
+
+
+
+alert(`Du växlade: ${result} `);
+
+
+
+
