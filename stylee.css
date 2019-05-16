@@ -1,0 +1,131 @@
+
+
+
+body {
+
+    background: #122430;
+    margin: 0px;
+}
+
+.wt h2 {
+
+color: #FFFCE2;
+font-family: 'Lato', sans-serif;
+font-size: 22px;
+line-height: 1.5rem;
+font-weight: 600px;
+text-transform: uppercase;
+
+
+}
+
+.wt {
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row wrap;
+    margin: 15px;
+    border-style: solid;
+}
+
+.wf {
+
+    color: #FFFCE2;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.wf h5 {
+
+    font-size: 16.6px;
+    margin: 16;
+    flex
+
+}
+
+.wf h6 {
+
+    font-size: 16.6px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+ 
+}
+
+.navbar .naav {
+
+    display: flex;
+    color: #FFFCE2;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: 
+    list-style-type: none;
+    margin: 0px;
+
+}
+
+
+
+
+-----------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+</head>
+
+
+
+<body>
+
+   <!---Buttons-->
+    <div class="wt"> 
+            <input class="ied" placeholder="Username"></input>
+            <input class="iep" type="password" placeholder="Password"></input>
+                <button class="logga-in">Logga in </button>
+    </div>
+
+
+    <!--Navbar-->
+
+    <div class="navbar">
+        <ul>
+        <li class="naav"><i class="fas fa-home"></i><a href="#">Hem</a></li>
+        <li class="naav" ><i class="fas fa-fingerprint"></i><a href="#">Kryptering</a></li>
+        <li class="naav" ><i class="fas fa-infinity"></i><a href="#">Doc</a></li>
+        <li class="naav" ><i class="fas fa-life-ring"></i> <a href="#">Support</a></li>
+        <li class="naav" ><i class="far fa-eye"></i><a href="#">Om Oss</a></li>
+    </ul>
+    </div>
+    
+    <!--Text-->
+    <div class="wf">
+    <h2>cloud</h2>
+
+    <h5>Spara din data på moln</h5>
+    <h6>kryptera dina filer med ett enkel klick</h6>
+
+    </div>
+
+
+
+    
+</body>
+</html>
+
+
+
